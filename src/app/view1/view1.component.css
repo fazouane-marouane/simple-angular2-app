@@ -1,0 +1,10 @@
+.list-view {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: stretch;
+  justify-content: flex-start
+}
+
+.list-view-item {
+  margin: 10px
+}
